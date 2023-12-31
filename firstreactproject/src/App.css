@@ -1,5 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Mohave:wght@700&display=swap');
+
+
 body {
-  font-family: "Arial", sans-serif;
+  font-family: 'Mohave', sans-serif;
   margin: 0;
   padding: 0;
   background-color: #f5f5f5;
@@ -15,6 +18,7 @@ body {
 }
 
 h1 {
+  font-size: 2.5rem;
   color: #333;
 }
 
@@ -51,6 +55,7 @@ button.delete {
 
 .list-container {
   overflow-x: auto;
+  background-color: rgb(252, 243, 232);
 }
 
 ul {
