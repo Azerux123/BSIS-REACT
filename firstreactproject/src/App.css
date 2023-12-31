@@ -74,6 +74,15 @@ li button {
   border-radius: 4px;
 }
 
+.edit{
+  position: absolute;
+  right: 13%;
+}
+
+.App{
+  background-color: rgb(248, 209, 215);
+}
+
 @media (max-width: 600px) {
   input {
     width: 60%;
